@@ -1,5 +1,5 @@
 ## Deployed Application
- You can view the deployed version of the voice assistant application at the following link:
+ You can view the deployed version of the voice assistant application at the following link: [Voice Assistant App](https://yuejiaoshi.github.io/voice-assistant-app/).
 
 ## Application Preview
 
